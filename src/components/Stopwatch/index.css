@@ -1,0 +1,6 @@
+/* Write CSS here */
+.bg-image {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/stopwatch-lg-bg.png');
+  height: 100vh;
+  background-size: cover;
+}
